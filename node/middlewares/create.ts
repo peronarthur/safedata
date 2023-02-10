@@ -26,7 +26,7 @@ export async function create(ctx: Context, next: () => Promise<unknown>) {
 )) as Settings
 
 
- const canCreateSetting = appSettings.entityConfigurations.find( elem => elem?.entityAcronym == dataEntity)?.canCreate ?? entitySettings.canCreate
+ const canCreateSetting = appSettings.entityConfigurations?.find( elem => elem?.entityAcronym == dataEntity)?.canCreate ?? entitySettings.canCreate
 
 
   if (!isLoggedIn) {
