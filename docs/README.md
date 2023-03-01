@@ -1,5 +1,5 @@
 ##  ⚠️ Maintenance ⚠️
-*After January 01 of 2023, this application will no longer be maintained by the RPT BR team. Maintenance will be the responsibility of the ecosystem, everyone will be able to make a branch with the changes or improvements they want to make, make a pull request and we will approve it.*
+*After March 01 of 2023, this application will no longer be maintained by the RPT BR team. Maintenance will be the responsibility of the ecosystem, everyone will be able to make a branch with the changes or improvements they want to make, make a pull request and we will approve it.*
 
 ---
 
