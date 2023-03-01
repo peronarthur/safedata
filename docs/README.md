@@ -1,4 +1,11 @@
+##  ⚠️ Maintenance ⚠️
+*After January 01 of 2023, this application will no longer be maintained by the RPT BR team. Maintenance will be the responsibility of the ecosystem, everyone will be able to make a branch with the changes or improvements they want to make, make a pull request and we will approve it.*
 
+---
+
+📢 Use this project, [contribute](https://github.com/vtex-apps/safedata) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
+
+---
 
 # Querying personal MasterData Information with SafeData
 
